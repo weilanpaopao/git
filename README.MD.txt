@@ -1,0 +1,2 @@
+DOORS是一个maven+spring+springmvc
++springrestful+风格的小demo，数据库是mysql，本demo 中test有一个socket 连接的服务端客户端的小案例。
